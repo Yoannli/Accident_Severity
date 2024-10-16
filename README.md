@@ -1,6 +1,8 @@
 # Accident_Severity
 Prediction of US Accident Severity using Neural Network
 
+![map](https://github.com/Yoannli/Accident_Severity/blob/main/Plots/bokeh_zoom.JPG)
+
 The code is split up in 5 python notebooks:
 * 1_read.ipynb
     * information about the datasets
